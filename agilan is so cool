@@ -12,6 +12,10 @@ index.html
   <p>This is a very simple HTML page.</p>
   <p>It only has a few lines of text.</p>
   <p>But it still counts as a real website.</p>
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fff7cc;
+}
 </body>
 </html>
 
